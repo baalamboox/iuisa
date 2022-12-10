@@ -1,0 +1,10 @@
+.bg-header {
+    background-color: $primary;
+    background-image: url('/img/fondos/fondo_wave.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.bg-nav {
+    background-color: $dark_primary;
+}

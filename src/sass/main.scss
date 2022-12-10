@@ -1,0 +1,10 @@
+@import 'bootstrap/scss/bootstrap.scss';
+@import './variables.scss';
+@import './header.scss';
+@import './footer.scss';
+@import './cremas.scss';
+
+* {
+    font-family: 'Metropolis';
+    text-transform: uppercase;
+}
